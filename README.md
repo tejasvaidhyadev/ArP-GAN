@@ -8,3 +8,8 @@ image data set for the purpose of mapping spatial plan to detailed architectural
 
 **Dataset**: Contains 2000K+ datapoint for ARP-GAN [**Link**](https://github.com/tejasvaidhyadev/ArP-GAN/releases/download/v0.1/2K_plan_data.zip)  
 **Checkpoint**: [**Link**](https://github.com/tejasvaidhyadev/ArP-GAN/releases/download/v0.1/checkpoint.zip)
+
+## Concept
+![Concept](assets/ccycle%20gan.JPG)
+
+- Paper and code comming soon  
