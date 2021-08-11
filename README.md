@@ -12,4 +12,6 @@ image data set for the purpose of mapping spatial plan to detailed architectural
 ## Concept
 ![Concept](assets/ccycle%20gan.JPG)
 
+- Results: [Link](https://tejasvaidhyadev.github.io/ArP-GAN/)
 - Paper and code comming soon  
+
